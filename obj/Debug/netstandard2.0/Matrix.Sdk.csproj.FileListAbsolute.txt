@@ -1,0 +1,10 @@
+D:\devgithub\team-nexgen\nexIRC\nexIRC4\matrix.sdk\Matrix.Sdk\bin\Debug\netstandard2.0\Matrix.Sdk.deps.json
+D:\devgithub\team-nexgen\nexIRC\nexIRC4\matrix.sdk\Matrix.Sdk\bin\Debug\netstandard2.0\Matrix.Sdk.dll
+D:\devgithub\team-nexgen\nexIRC\nexIRC4\matrix.sdk\Matrix.Sdk\bin\Debug\netstandard2.0\Matrix.Sdk.pdb
+D:\devgithub\team-nexgen\nexIRC\nexIRC4\matrix.sdk\Matrix.Sdk\obj\Debug\netstandard2.0\Matrix.Sdk.csproj.AssemblyReference.cache
+D:\devgithub\team-nexgen\nexIRC\nexIRC4\matrix.sdk\Matrix.Sdk\obj\Debug\netstandard2.0\Matrix.Sdk.GeneratedMSBuildEditorConfig.editorconfig
+D:\devgithub\team-nexgen\nexIRC\nexIRC4\matrix.sdk\Matrix.Sdk\obj\Debug\netstandard2.0\Matrix.Sdk.AssemblyInfoInputs.cache
+D:\devgithub\team-nexgen\nexIRC\nexIRC4\matrix.sdk\Matrix.Sdk\obj\Debug\netstandard2.0\Matrix.Sdk.AssemblyInfo.cs
+D:\devgithub\team-nexgen\nexIRC\nexIRC4\matrix.sdk\Matrix.Sdk\obj\Debug\netstandard2.0\Matrix.Sdk.csproj.CoreCompileInputs.cache
+D:\devgithub\team-nexgen\nexIRC\nexIRC4\matrix.sdk\Matrix.Sdk\obj\Debug\netstandard2.0\Matrix.Sdk.dll
+D:\devgithub\team-nexgen\nexIRC\nexIRC4\matrix.sdk\Matrix.Sdk\obj\Debug\netstandard2.0\Matrix.Sdk.pdb
